@@ -1,2 +1,8 @@
 # flutter-api-wrapper
-Flutter API wrapper
+
+## Environment Variables
+FLUTTER_ENCRYPTION_KEY
+FLUTTER_PUBLIC_KEY
+FLUTTER_SECRET_KEY
+FLUTTER_TRANSACTION_PREFIX
+FLUTTER_BASE_URL=https://api.flutterwave.com/v3
